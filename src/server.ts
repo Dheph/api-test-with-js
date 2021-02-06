@@ -1,7 +1,7 @@
 import {app} from './app';
 
-app.listen(3333,() => {
-    console.log('running on port 3333')
+let port:Number = 3333
+
+app.listen(port, () => {
+    console.log(`running on port ${port}`)
 });
-
-
