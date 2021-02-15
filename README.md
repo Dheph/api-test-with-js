@@ -1,3 +1,3 @@
-# api-test-with-js
+# api-test-with-ts
 
 testing api 
